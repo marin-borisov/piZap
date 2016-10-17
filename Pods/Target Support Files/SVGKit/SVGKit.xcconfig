@@ -1,0 +1,4 @@
+SVGKIT_CLANG_CXX_LANGUAGE_STANDARD = gnu++11
+SVGKIT_CLANG_CXX_LIBRARY = libstdc++
+SVGKIT_HEADER_SEARCH_PATHS = $(SDKROOT)/usr/include/libxml2
+SVGKIT_OTHER_LDFLAGS = -l"xml2" -framework "CoreText" -framework "QuartzCore"

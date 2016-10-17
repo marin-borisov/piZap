@@ -1,0 +1,6 @@
+#include "SVProgressHUD.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/SVProgressHUD" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Bolts" "${PODS_ROOT}/Headers/Public/CocoaLumberjack" "${PODS_ROOT}/Headers/Public/DateTools" "${PODS_ROOT}/Headers/Public/EXPhotoViewer" "${PODS_ROOT}/Headers/Public/Facebook-iOS-SDK" "${PODS_ROOT}/Headers/Public/Facebook-iOS-SDK/FBSDKCoreKit" "${PODS_ROOT}/Headers/Public/Facebook-iOS-SDK/FBSDKLoginKit" "${PODS_ROOT}/Headers/Public/Facebook-iOS-SDK/FBSDKShareKit" "${PODS_ROOT}/Headers/Public/JASidePanels" "${PODS_ROOT}/Headers/Public/MCSwipeTableViewCell" "${PODS_ROOT}/Headers/Public/MHCustomTabBarController" "${PODS_ROOT}/Headers/Public/NKOColorPickerView" "${PODS_ROOT}/Headers/Public/Reachability" "${PODS_ROOT}/Headers/Public/SDWebImage" "${PODS_ROOT}/Headers/Public/SVGKit" "${PODS_ROOT}/Headers/Public/SVProgressHUD" "${PODS_ROOT}/Headers/Public/SVPullToRefresh" "${PODS_ROOT}/Headers/Public/TOCropViewController" "${PODS_ROOT}/Headers/Public/UzysAssetsPickerController"
+OTHER_LDFLAGS = ${SVPROGRESSHUD_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

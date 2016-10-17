@@ -1,0 +1,115 @@
+PODS:
+  - AFNetworking (2.6.0):
+    - AFNetworking/NSURLConnection (= 2.6.0)
+    - AFNetworking/NSURLSession (= 2.6.0)
+    - AFNetworking/Reachability (= 2.6.0)
+    - AFNetworking/Security (= 2.6.0)
+    - AFNetworking/Serialization (= 2.6.0)
+    - AFNetworking/UIKit (= 2.6.0)
+  - AFNetworking/NSURLConnection (2.6.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.0)
+  - AFNetworking/Security (2.6.0)
+  - AFNetworking/Serialization (2.6.0)
+  - AFNetworking/UIKit (2.6.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Bolts (1.2.2):
+    - Bolts/AppLinks (= 1.2.2)
+    - Bolts/Tasks (= 1.2.2)
+  - Bolts/AppLinks (1.2.2):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.2.2)
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions (= 1.9.2)
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+  - DateTools (1.7.0)
+  - EXPhotoViewer (1.1.2)
+  - Facebook-iOS-SDK (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit (= 4.1.0)
+    - Facebook-iOS-SDK/LoginKit (= 4.1.0)
+    - Facebook-iOS-SDK/ShareKit (= 4.1.0)
+  - Facebook-iOS-SDK/CoreKit (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit/no-arc (= 4.1.0)
+  - Facebook-iOS-SDK/CoreKit/no-arc (4.1.0):
+    - Bolts (~> 1.1)
+  - Facebook-iOS-SDK/LoginKit (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit
+  - Facebook-iOS-SDK/ShareKit (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit
+  - JASidePanels (1.3.2)
+  - MCSwipeTableViewCell (2.1.4)
+  - MHCustomTabBarController (1.2.0)
+  - NKOColorPickerView (0.5)
+  - Reachability (3.2)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SVGKit (1.2.0):
+    - CocoaLumberjack
+  - SVProgressHUD (HEAD based on 1.1.3)
+  - SVPullToRefresh (0.4.1)
+  - TOCropViewController (1.0.6)
+  - UzysAssetsPickerController (0.9.9)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - CocoaLumberjack (~> 1.9)
+  - DateTools
+  - EXPhotoViewer
+  - Facebook-iOS-SDK
+  - JASidePanels (~> 1.3.2)
+  - MCSwipeTableViewCell
+  - MHCustomTabBarController
+  - NKOColorPickerView
+  - Reachability
+  - SDWebImage
+  - SVGKit
+  - SVProgressHUD (HEAD)
+  - SVPullToRefresh
+  - TOCropViewController
+  - UzysAssetsPickerController (from `https://github.com/meitianapp/UzysAssetsPickerController.git`,
+    commit `aa853fe406e88ab1ccf7af40f1f71857cef8da18`)
+
+EXTERNAL SOURCES:
+  UzysAssetsPickerController:
+    :commit: aa853fe406e88ab1ccf7af40f1f71857cef8da18
+    :git: https://github.com/meitianapp/UzysAssetsPickerController.git
+
+CHECKOUT OPTIONS:
+  UzysAssetsPickerController:
+    :commit: aa853fe406e88ab1ccf7af40f1f71857cef8da18
+    :git: https://github.com/meitianapp/UzysAssetsPickerController.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 79f7eb1a0fcfa7beb409332b2ca49afe9ce53b05
+  Bolts: 20a2bd788273360cb1e31530dc19b8544eef2544
+  CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  EXPhotoViewer: 01d391c4e5f7d25470d92b26837d40a362714ce0
+  Facebook-iOS-SDK: f42dfb27283bf5f05e3a9edc88459a75b9892d99
+  JASidePanels: c8f5b130e18d51ee3de988d1c1fad2f88e0b0d21
+  MCSwipeTableViewCell: 1b303e16c3a26b1982f3a68386e9b8c5fc8344c3
+  MHCustomTabBarController: 09e04410232dc2cba73bab54b3987a6288e19df7
+  NKOColorPickerView: 895ca86fe5bd16f27c311ce8f5888907efee29ad
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVGKit: 267d38d3db13ca62dc52f09b4738cb440f83c4c6
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  TOCropViewController: a8589f4a62e633fc0fbf13a113b3dff042932d67
+  UzysAssetsPickerController: 47c27bd96955467925f3d4d80b1e2e8aaeff766d
+
+COCOAPODS: 0.38.2

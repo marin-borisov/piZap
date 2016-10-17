@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__119+[PZAPI postImageWithTitle:posttofacebook:publicvalue:posttotwitter:posttotumblr:data:access_token:andCompletionBlock:]_block_invoke129:PZAPI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__91+[PZAPI ProcessFBWithClientID:response_type:id:email:name:gender:token:andCompletionBlock:]_block_invoke:PZAPI.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PZEditProfile reloadInformation]:PZEditProfile.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[AppData appData].me.strProfileImageURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

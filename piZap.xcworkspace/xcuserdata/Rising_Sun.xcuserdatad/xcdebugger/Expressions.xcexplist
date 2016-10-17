@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PZCollageListVC prepareForSegue:sender:]:PZCollageListVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PZCollageListRectangleVC collectionView:numberOfItemsInSection:]:PZCollageListRectangleVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PZStickerSubMenuVC viewDidLoad]:PZStickerSubMenuVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "__32-[PZEditMainVC stickerSelected:]_block_invoke:PZEditMainVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imgView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didFinishLaunchingWithOptions:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PZSearchUserVC tableView:numberOfRowsInSection:]:PZSearchUserVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CollageView hitTest:withEvent:]:CollageView.m">
+      </ContextState>
+      <ContextState
+         contextName = "__37-[PZSearchUserVC loadUsersWithSearch]_block_invoke:PZSearchUserVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PZEditMainVC pb_takeSnapshot:]:PZEditMainVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "subView.transform">
+            </PersistentString>
+            <PersistentString
+               value = "subView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PZSearchUserVC tableView:cellForRowAtIndexPath:]:PZSearchUserVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppData loadAssetJSON]:AppData.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PZSecondTabbarVC prepareForSegue:sender:]:PZSecondTabbarVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

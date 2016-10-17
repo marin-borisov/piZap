@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B389C0D5-3619-4665-BF61-6599E4B6B44D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>piZap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2E5728A4966B78CE5242F6B772837968C4BB3208</key>
+		<string>https://github.com/pizap/pizap_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>piZap.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2E5728A4966B78CE5242F6B772837968C4BB3208</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pizap/pizap_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2E5728A4966B78CE5242F6B772837968C4BB3208</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2E5728A4966B78CE5242F6B772837968C4BB3208</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pizap_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
